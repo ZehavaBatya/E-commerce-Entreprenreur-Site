@@ -10,7 +10,7 @@ https://www.danielleindoodles.com/
 
 **Tech used:** HTML, CSS, JavaScript, PHP
 
-In JavaScript, I made APIs and polyfills to ensure every button and link are clicakble or hoverable when the user prompts the action to do so. Functions and "what if" statements are written for multiple scenario outcomes. In CSS, images, GIFS, and color schemes were used to create a bubble gum-themed design, infused with fonts that Wix provides. THe HTML includes meta properties, names, and scripts. The site works on both desktop and mobile app where the layouts are aligned and edited. 
+In JavaScript, I made APIs and polyfills to ensure every button and link are clicakble or hoverable when the user prompts the action to do so. Functions and "what if" statements are written for multiple scenario outcomes. In CSS, images, GIFS, and color schemes were used to create a bubble gum-themed design, infused with fonts that Wix provides. The HTML includes meta properties, names, and scripts. The site works on both desktop and mobile app where the layouts are aligned and edited. 
 
 ## Optimizations
 
