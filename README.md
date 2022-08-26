@@ -1,5 +1,6 @@
 # E-commerce-Entreprenreur-Site
 My web associate work at Danielle Brody Media to build a profitable and enchanting website. The site is fully functionable for a pleasant shopping experience with hovering buttons, blog access, exclusive membership access, the ability to purchase items, and leave reviews. 
+
 ![DID_Vid](https://user-images.githubusercontent.com/84485729/186798396-9f7b1667-4994-4a76-8c85-92bf42d3b62d.gif)
 
 # Project Link
